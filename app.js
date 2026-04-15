@@ -66,3 +66,45 @@ Chapter = 21^25
 
 // console.log(userInput);
 // console.log(cap + nor);
+
+// Que 12
+// var num = 35.36;
+// var str = num.toString().replace(".","");
+// console.log(str);
+// console.log(typeof str);
+// var num2 = parseInt(str);
+// console.log(num2);
+// console.log(typeof num2);
+
+26^30
+
+// Que 1
+// var num = prompt("Enter a positive Integer", "3.45214");
+
+// console.log("number: " + num);
+// console.log("round of number: " + Math.round(num));
+// console.log("floor value: " + Math.floor(num));
+// console.log("Ceil value: " + Math.ceil(num));
+
+// Que 2
+// var num = prompt("Enter a negative Integer", "-2.673");
+//    console.log("number: " + num);
+//    console.log("round of value: " + Math.round(num));
+//    console.log("floor value: " + Math.floor(num));
+//    console.log("ceil value:"+ Math.ceil(num));
+
+// Que 3
+// var num = prompt("Enter a number to find its absolute value");
+// num = Number(num);
+// var absValue = Math.abs(num);
+// console.log("The absolute value of " + num + " is " + absValue);
+
+// Que 4
+// let text = "Hello World";
+
+// let lastIndex = text.lastIndexOf("l");
+
+// console.log("String: " + text + "<br>");
+// console.log("Last index of 'l': " + lastIndex);
+
+// Que 5
